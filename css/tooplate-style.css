@@ -695,6 +695,7 @@ http://www.tooplate.com/view/2106-soft-landing
      RESPONSIVE STYLES              
   -----------------------------------------*/
 
+
   @media only screen and (max-width: 1200px) {
 
     .custom-navbar .navbar-nav {
@@ -704,6 +705,7 @@ http://www.tooplate.com/view/2106-soft-landing
     .home-info {
       margin-top: 0;
     }
+
   }
 
 
@@ -825,4 +827,12 @@ http://www.tooplate.com/view/2106-soft-landing
     .testimonial-info {
       height: 65vh;
     }
+
   }
+
+  @media screen and (min-width: 1024px) {
+    .call-btn{
+      display: none;
+    }
+  }
+      
